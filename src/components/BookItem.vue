@@ -1,7 +1,7 @@
 <script>
 export default {
     name: 'BookItem',
-    props: 'book'
+    props: ['book']
 }
 </script>
 
